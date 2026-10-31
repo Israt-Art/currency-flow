@@ -91,7 +91,7 @@ Through this project, I am exploring:
 
 ## 📸 Screenshots
 
-![CurrencyFlow](screenshots/currency-converter.png)
+screenshots/currency-converter.png
 
 ## 🙏 Acknowledgements
 
